@@ -1,0 +1,14 @@
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\bin\Debug\UçuşPaneliX.exe.config
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\bin\Debug\UçuşPaneliX.exe
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\bin\Debug\UçuşPaneliX.pdb
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.csproj.AssemblyReference.cache
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.Form1.resources
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.Properties.Resources.resources
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.csproj.GenerateResource.cache
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.csproj.CoreCompileInputs.cache
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.exe
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.pdb
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\bin\Debug\UçuşPaneliX.exe.manifest
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\bin\Debug\UçuşPaneliX.application
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.exe.manifest
+C:\Users\OmerUYANIK\source\repos\UçuşPaneliX\UçuşPaneliX\obj\Debug\UçuşPaneliX.application

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="UçuşPaneliX.exe" version="1.0.0.0" publicKeyToken="e9ad556ca26a17d3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UçuşPaneliX" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="UçuşPaneliX.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UçuşPaneliX.exe" size="467456">
+      <assemblyIdentity name="UçuşPaneliX" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sP9QHwa7iOh8QXlCoUnRQykXMpjg0QWM+mINJQktaLg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="UçuşPaneliX.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-CQLN272\OmerUYANIK" issuerKeyHash="a19e17c966be8c14a72830f1b19a3ea3b06d32f0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MR4OVbTArFA3QBeg1U7jCUstP53gsD6LYnOtT0pug/s=</DigestValue></Reference></SignedInfo><SignatureValue>0MFsvDRN49tkazvVG3PU0GS8L7r+1xmJT2+vNHterCB48FKVuBRszzYs0CX8UnblEu076bPwOtkwYzlHKS+rRDLUiZkE1DmvDJ6Zx16EmBcAm1XnPl6zjA+3rt7aHGbrZNDo8KJb4XZ22Rnp/hsm9tyrP2NpE87jD35OcH9/rEA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2a58ZvFpY8IGMtOcnqyYulpLPA2Wl8zXhYRUNrgAADyVTlFoPJX8cwebajipJTl32j0/9H08wSrHwCGKMBZhg4N+6K2ZxgrV23AI6haC10FKkXCltPRslaMxS11Yj3FvY32VCJi+I4kObQBH4skQwjRIE6ODf+d4EBetbjMePdU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fb836e4a4fad73628b3eb0e09d3f2d4b09e34ed5a017403750acc0b4550e1e31" Description="" Url=""><as:assemblyIdentity name="UçuşPaneliX.exe" version="1.0.0.0" publicKeyToken="e9ad556ca26a17d3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-CQLN272\OmerUYANIK</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>C6PrbPwkVUC7nLPzxrnqpK4+1ZoFME4f0lHUam1NeLw=</DigestValue></Reference></SignedInfo><SignatureValue>YHvV9LWkszkpdfPdrWfCzJsx8v/nMZqG2sSIsZtnjIeAJEtdsdITTY0c9Po56/ZZeb820QWkV7Chd0LSQzSRdwwIzdY6jiqnMNbYBEmTs21Qtbq+3ZJcfHl1Xs4sL7in/q78UrnNdkmBHGpkJoge6cNXyN2uCUKXXUDyO/NuW78=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2a58ZvFpY8IGMtOcnqyYulpLPA2Wl8zXhYRUNrgAADyVTlFoPJX8cwebajipJTl32j0/9H08wSrHwCGKMBZhg4N+6K2ZxgrV23AI6haC10FKkXCltPRslaMxS11Yj3FvY32VCJi+I4kObQBH4skQwjRIE6ODf+d4EBetbjMePdU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQZ32SmY20i6JKTvw9mWGTJTANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQARABFAFMASwBUAE8AUAAtAEMAUQBMAE4AMgA3ADIAXABPAG0AZQByAFUAWQBBAE4ASQBLMB4XDTI0MDMxMjEzNTMyM1oXDTI1MDMxMjE5NTMyM1owPzE9MDsGA1UEAx40AEQARQBTAEsAVABPAFAALQBDAFEATABOADIANwAyAFwATwBtAGUAcgBVAFkAQQBOAEkASzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2a58ZvFpY8IGMtOcnqyYulpLPA2Wl8zXhYRUNrgAADyVTlFoPJX8cwebajipJTl32j0/9H08wSrHwCGKMBZhg4N+6K2ZxgrV23AI6haC10FKkXCltPRslaMxS11Yj3FvY32VCJi+I4kObQBH4skQwjRIE6ODf+d4EBetbjMePdUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBotE72x+lGma41gj0Hah0rVY80VBEX9vo+78XBBiv4jZ5RtKLXnY6v7izvQVMpMokItJ6KnTQWoA+dB8XFK/mcwrHJdbCHfdBFAdbVbokOchqPuP2sVKjqRw/sTFf0Uhekcw5aLiOFeEb6oH0hhzOaDqcfoheQ9jZexNoaEwqn7Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

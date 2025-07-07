@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AAAE27-910A-40BE-A049-3928179B4165}|U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX.csproj|c:\\users\\omeruyanik\\source\\repos\\u\u00E7u\u015Fpanelix\\u\u00E7u\u015Fpanelix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AAAE27-910A-40BE-A049-3928179B4165}|U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX.csproj|solutionrelative:u\u00E7u\u015Fpanelix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AAAE27-910A-40BE-A049-3928179B4165}|U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX.csproj|C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\u\u00E7u\u015Fpanelix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30AAAE27-910A-40BE-A049-3928179B4165}|U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX.csproj|solutionrelative:u\u00E7u\u015Fpanelix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX\\Form1.cs",
+              "RelativeDocumentMoniker": "U\u00E7u\u015FPaneliX\\Form1.cs",
+              "ToolTip": "C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX\\Form1.cs",
+              "RelativeToolTip": "U\u00E7u\u015FPaneliX\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCMAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:07:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX\\Form1.cs",
+              "RelativeDocumentMoniker": "U\u00E7u\u015FPaneliX\\Form1.cs",
+              "ToolTip": "C:\\Users\\OmerUYANIK\\source\\repos\\U\u00E7u\u015FPaneliX\\U\u00E7u\u015FPaneliX\\Form1.cs [Design]",
+              "RelativeToolTip": "U\u00E7u\u015FPaneliX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:50:23.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
